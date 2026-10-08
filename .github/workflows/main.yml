@@ -1,6 +1,6 @@
 name: RDP
 
-on:
+"on":
 workflow_dispatch:
 
 jobs:
